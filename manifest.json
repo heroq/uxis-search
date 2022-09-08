@@ -1,0 +1,17 @@
+{
+    "name": "UXIS",
+    "description": "",
+    "version": "1.0",
+    "manifest_version": 3,
+    "action": {
+        "default_icon": "./logo_new.png",
+        "default_popup": "index.html"
+    },
+    "permissions": [
+        "tabs",
+        "activeTab",
+        "alarms",
+        "storage",
+        "unlimitedStorage"
+    ]
+  }

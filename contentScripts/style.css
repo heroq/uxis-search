@@ -1,0 +1,39 @@
+div.item{
+    width: 300px;
+    padding-bottom: 3px;
+}
+
+div.item:hover{
+    background-color: #0d6efd;
+    color: white;
+}
+
+input {
+    display: inline-block;
+    margin: 0;
+}
+
+input[type='text']{
+    height: 36px;
+    font-size:1.2em;
+    outline: 0;
+    border-width: 0 0 2px;
+    border-color: black;
+    margin-bottom: 25px;
+}
+
+input[type='button']{
+    font-size:1em;
+    margin-bottom: 25px;
+}
+
+a {
+    text-decoration: none;
+    color: black;
+}
+
+#search, h1 {
+    display: flex;
+    justify-content: center;
+    align-items: center;
+}
