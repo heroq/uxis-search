@@ -32,7 +32,7 @@ a {
     color: black;
 }
 
-#search, h1 {
+#searchDiv, h1 {
     display: flex;
     justify-content: center;
     align-items: center;
